@@ -71,7 +71,7 @@ Just like how a big, complex video game might use up more of your console's powe
 
 For example, if you're playing a simple game like checkers, your game console might not need much power. But what if you're playing a big, exciting adventure game with lots of characters and levels? That might use up a lot more power!
 
-In the same way, if you're doing something simple on the Ethereum playground, like sending your friend a virtual coin, it might not need a lot of Gas. But if you're playing a more complex 'game', like trading a hundred different virtual pets all at once, that might need a lot more Gas! And because it's a bigger task, you would need to pay more Gas to get it done. [You can read more on gas here.](https://rinwa.hashnode.dev/understanding-gas-in-ethereum-and-how-to-optimize-smart-contracts)
+In the same way, if you're doing something simple on the Ethereum playground, like sending your friend a virtual coin, it might not need a lot of Gas. But if you're playing a more complex 'game', like trading a hundred different virtual pets all at once, that might need a lot more Gas! And because it's a bigger task, you would need to pay more Gas to get it done. [You can read more on gas here.](/blog/understanding-gas-in-ethereum/)
 
 So, the next time you're playing a game on your console at home, think about how it needs power to run. And remember, in the Ethereum playground, all the game consoles (EVMs) and the games (smart contracts) they run also need power - that power is Gas! And the more complex the game, the more Gas you'll need to pay to play!
 

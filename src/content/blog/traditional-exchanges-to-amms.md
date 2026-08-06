@@ -183,5 +183,3 @@ However, as we peer into the future, the potential implications of AMMs extend b
 In the grand scheme of things, we're still in the early stages of this exciting journey. As we continue to advance and innovate, AMMs will undoubtedly play a pivotal role in shaping the DeFi landscape and possibly the future of finance as we know it.
 
 So, strap in and hold on tight. The future is looking mighty exciting, my friends, and I can't wait to continue learning, exploring, and sharing this journey with you all. Till our next exploration, stay curious and keep learning!
-
-*Photo by [Shubham Dhage](https://unsplash.com/@theshubhamdhage?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/crypto-trade?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*
