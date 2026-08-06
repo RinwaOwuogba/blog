@@ -69,3 +69,11 @@ Owning the domain is the point: if you ever move off Astro, your URLs and SEO co
 - `src/components/` — `Header`, `Footer`, etc. (edit social links here)
 - `src/consts.ts` — site title + description
 - `astro.config.mjs` — site URL + integrations
+
+## Known issues / TODO
+
+- **Animated GIFs render as static images.** Astro optimizes markdown/hero images through sharp
+  (first frame only), so the animated GIFs in the EVM post
+  (`src/content/blog/the-marvelous-mechanics-of-evm.md`) don't animate on the built site. Fix: emit
+  animated WebP (sharp `animated: true`), or bypass optimization for those images (e.g. serve them
+  from `public/` instead of `src/assets/`).
