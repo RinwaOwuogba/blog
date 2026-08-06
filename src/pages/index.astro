@@ -1,0 +1,30 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Hi, I'm Bolarinwa 👋</h1>
+			<p>
+				I'm a full-stack engineer — six years across a React/TypeScript frontend and Go services,
+				mostly on payments and crypto surfaces that move real money. I care about the leverage that
+				makes a whole team ship faster, developer experience, and building AI-natively.
+			</p>
+			<p>
+				This is where I write about engineering, web3, and how building software is changing in the
+				agentic era. Start with the <a href="/blog">blog</a>, or read a bit
+				<a href="/about">about me</a>.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
