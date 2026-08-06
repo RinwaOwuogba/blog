@@ -6,8 +6,8 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	// TODO: change to your own domain once you register it (drives RSS + sitemap URLs).
-	site: 'https://rinwa.dev',
+	// Registered domain (drives canonical URLs, RSS, and sitemap). DNS may take up to ~48h to serve.
+	site: 'https://bolarinwa.me',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
