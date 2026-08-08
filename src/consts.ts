@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'Bolarinwa Owuogba';
 export const SITE_DESCRIPTION =
-	'Full-stack engineer writing about web3, fintech, and building software in the agentic era.';
+	'Bolarinwa Owuogba — an engineer in Lagos working in and around money (fintech, crypto). I write about engineering, web3, and how building software is changing.';
