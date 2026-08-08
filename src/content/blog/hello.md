@@ -2,7 +2,7 @@
 title: 'Hello — and what this is'
 description: 'A first post, and a quick tour of how this blog works.'
 pubDate: 'Aug 06 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/hello-cover.png'
 ---
 
 This is my corner of the internet — a place to write about engineering, web3, and how building
