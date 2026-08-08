@@ -2,6 +2,7 @@
 title: 'Understanding Gas in Ethereum and How to Optimize Smart Contracts'
 description: 'What gas actually is on Ethereum, how transaction costs are calculated, and practical ways to write smart contracts that consume less of it.'
 pubDate: 'May 16 2023'
+heroImage: '../../assets/cover-gas.jpg'
 ---
 
 ## 1. Introduction

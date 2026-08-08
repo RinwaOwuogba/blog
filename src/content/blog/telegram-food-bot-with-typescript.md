@@ -2,7 +2,7 @@
 title: 'Building a telegram food bot with TypeScript + Telegraf-Inline-Menu'
 description: 'A step-by-step tutorial building a Telegram food bot in TypeScript with Telegraf inline menus, fetching cuisines and recipes from the Spoonacular API.'
 pubDate: 'Oct 07 2021'
-heroImage: '../../assets/telegram-bot-1.png'
+heroImage: '../../assets/cover-telegram.jpg'
 ---
 
 *Photo by [Davide Cantelli](https://unsplash.com/@cant89?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*

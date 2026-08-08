@@ -2,7 +2,7 @@
 title: 'Using Linear as a Second Brain for Software Engineering (SWE)'
 description: 'Why I treat Linear as external memory, so context and past decisions stay recoverable in minutes instead of lost in my head.'
 pubDate: 'Jun 05 2026'
-heroImage: '../../assets/linear-second-brain.jpg'
+heroImage: '../../assets/cover-linear.jpg'
 ---
 
 ## Introduction

@@ -2,7 +2,7 @@
 title: 'Relational Database Design vs DynamoDB Single-Table Design'
 description: 'Modelling the same e-commerce entities in normalized relational tables versus a DynamoDB single-table design, and when each approach fits.'
 pubDate: 'Oct 25 2021'
-heroImage: '../../assets/dynamodb-1.png'
+heroImage: '../../assets/cover-dynamodb.jpg'
 ---
 
 *Cover Photo by [Dietmar Becker](https://unsplash.com/@dietmarbecker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/comparison?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*

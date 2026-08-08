@@ -2,7 +2,7 @@
 title: 'The Marvelous Mechanics of EVM: A Kid''s Guide to Ethereum''s Engine Room'
 description: 'A kid-friendly playground analogy for how Ethereum''s virtual machines run smart contracts, spend gas, and record every transaction on the blockchain.'
 pubDate: 'Jun 13 2023'
-heroImage: '../../assets/evm-1.gif'
+heroImage: '../../assets/cover-evm.jpg'
 ---
 
 ## Introduction

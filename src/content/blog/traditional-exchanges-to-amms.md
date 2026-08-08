@@ -2,6 +2,7 @@
 title: 'From Traditional Exchanges to AMMs: A Shift in Liquidity Management'
 description: 'How automated market makers replaced traditional order-book exchanges, using liquidity pools and the x*y=k formula to keep on-chain trades liquid.'
 pubDate: 'May 27 2023'
+heroImage: '../../assets/cover-amms.jpg'
 ---
 
 ## 1. Introduction
