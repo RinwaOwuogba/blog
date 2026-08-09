@@ -5,7 +5,7 @@ pubDate: 'Aug 06 2026'
 heroImage: '../../assets/hello-cover.png'
 ---
 
-This is my corner of the internet — a place to write about engineering, web3, and how building
+This is my corner of the internet, a place to write about engineering, web3, and how building
 software is changing in the agentic era. No algorithm, no paywall, just notes I want to keep and
 share.
 
