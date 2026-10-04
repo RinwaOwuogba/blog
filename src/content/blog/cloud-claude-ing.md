@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Claude-ing'
 description: "TLDR; I put Claude on a server. Now, I'm getting more done and can steer it from my phone, wherever I am."
-pubDate: 'Sep 29 2026'
+pubDate: 'Oct 04 2026'
 heroImage: '../../assets/cloud-claude-ing.png'
 ---
 
