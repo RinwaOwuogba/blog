@@ -4,9 +4,6 @@ import { experimental_AstroContainer as AstroContainer } from 'astro/container';
 import rss from '@astrojs/rss';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
-// Only these posts appear in the feed. Empty means every post.
-const FEED_ONLY = ['cloud-claude-ing'];
-
 // Feed readers and importers need absolute URLs, not site-relative ones.
 const absolutize = (html, site) =>
 	html.replace(/(src|href)="\/(?!\/)/g, `$1="${new URL('/', site).href}`);
@@ -14,7 +11,6 @@ const absolutize = (html, site) =>
 export async function GET(context) {
 	const container = await AstroContainer.create();
 	const posts = (await getCollection('blog'))
-		.filter((post) => FEED_ONLY.length === 0 || FEED_ONLY.includes(post.id))
 		.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 	const items = await Promise.all(
