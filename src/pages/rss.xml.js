@@ -18,7 +18,8 @@ export async function GET(context) {
 			const { Content } = await render(post);
 			let html = await container.renderToString(Content);
 			if (post.data.heroImage) {
-				const hero = await getImage({ src: post.data.heroImage, format: 'png' });
+				// JPEG at a capped width keeps the file small (a PNG cover reached 28 MB, over Cloudflare Pages' 25 MiB limit).
+				const hero = await getImage({ src: post.data.heroImage, format: 'jpg', width: 1200 });
 				html = `<img src="${hero.src}" alt="" />${html}`;
 			}
 			return {
